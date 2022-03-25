@@ -14,3 +14,5 @@ console.log(score);
 
 //Strings
 console.log("Hello world");
+
+
